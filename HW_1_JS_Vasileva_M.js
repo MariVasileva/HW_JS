@@ -29,6 +29,7 @@ let item_7_type = typeof(item_7)
 console.log("item_7 == ",  item_7,  "item_7_type == ",  item_7_type)
 
 
+
 let age_1=10
 let age_2=18
 let age_3=60
