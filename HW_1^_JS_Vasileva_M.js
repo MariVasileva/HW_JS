@@ -21,5 +21,6 @@ else if (age > age_3) {
 
 // задали значение функции
 checkAge(17)
+checkAge(18)
 checkAge(60)
 checkAge(61)
